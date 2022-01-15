@@ -47,7 +47,9 @@
 > Tomamos en cuenta que el pedido cuenta con el atributo PRECIO el cual sacaremos como resultado del patrón COMPOSITE
 
 ### Diagrama de Estado
-	[![Patron Estado](/public/diagrama_estado.PNG)](https://github.com/jesuj/Design-Pattern-Java/tree/main/src/PrototipoYEstrategia)
+
+[![Patron Estado](/public/diagrama_estado.PNG)](https://github.com/jesuj/Design-Pattern-Java/tree/main/src/mini_proyecto/State)
 
 ### Diagrama de Clase Procedimental
-	[![Patron Estado](/public/diagrama_dinamico.PNG)](https://github.com/jesuj/Design-Pattern-Java/tree/main/src/PrototipoYEstrategia)
+
+[![Patron Estado](/public/diagrama_dinamico.PNG)](https://github.com/jesuj/Design-Pattern-Java/tree/main/src/mini_proyecto)
