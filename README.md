@@ -22,8 +22,8 @@
 2. Patron Estrategia
 3. Patron Plantilla
 
-### Descripcion
-
+> ### Descripcion
+>
 > Se necesita gestionar un pedido de un laboratorio de análisis clínicos, se está tomando en cuenta el precio extra que obtiene cada servicio que se le hace a la muestra para el laboratorio ya que para realizar dicho análisis se necesitan diferentes materiales con diferentes costos, para solucionar esta problema se está utilizando el patrón de diseño template.
 >
 > Muestra de Sangre- esta muestra necesita la jeringa (5bs). 
